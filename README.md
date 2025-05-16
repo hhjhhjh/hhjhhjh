@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋
 - 🔭 I’m currently working on Sungshin Women's University.
 - 🌱 I’m currently learning Data analysis, ML/DL.
  
