@@ -5,7 +5,7 @@
 
 
 ## 👩‍💻 About Me
-🎓 Major in **Bio Medical Artificial Intelligence** <br>
+🎓 Major in **Biomedical Artificial Intelligence** <br>
 💡 Interested in: Deep Learning, Multimodal AI, Bioinformatics
 <br><br>
 ## 💻 Tech Stack
