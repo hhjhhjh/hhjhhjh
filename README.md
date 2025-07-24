@@ -21,7 +21,7 @@ Also used:
     - 안저 영상과 임상정보(나이, 성별, 혈압 등)를 동시에 입력으로 사용하는 멀티모달 딥러닝 모델 개발
     - 경동맥 내중막 두께(CIMT)를 활용해 심혈관 질환 유무를 분류
     - 대한임베디드공학회 우수 논문상
-    - [gitnub link](https://github.com/hhjhhjh/multimodal-cvd-classification)
+    - [github link](https://github.com/hhjhhjh/multimodal-cvd-classification)
   
 - 🧴 **Acne Classification with Deep Learning**
     - 안면 사진 기반 여드름 유형 분류 모델 개발
