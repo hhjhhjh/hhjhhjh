@@ -5,7 +5,7 @@
 
 
 ## 👩‍💻 About Me
-🎓 Major in **Biomedical Artificial Intelligence** <br>
+🎓 Major in **Medical Artificial Intelligence** <br>
 💡 Interested in: Deep Learning, Multimodal AI, Bioinformatics
 <br><br>
 ## 💻 Tech Stack
@@ -21,18 +21,18 @@ Also used:
     - 안저 영상과 임상정보(나이, 성별, 혈압 등)를 동시에 입력으로 사용하는 멀티모달 딥러닝 모델 개발
     - 경동맥 내중막 두께(CIMT)를 활용해 심혈관 질환 유무를 분류
     - 대한임베디드공학회 우수 논문상
-    - [github link](https://github.com/hhjhhjh/multimodal-cvd-classification)
+    - [GitHub Link](https://github.com/hhjhhjh/multimodal-cvd-classification)
   
 - 🧴 **Acne Classification with Deep Learning**
     - 안면 사진 기반 여드름 유형 분류 모델 개발
     - CNN 기반 딥러닝 모델 설계 및 데이터 전처리
     - 클래스 불균형을 고려한 F1-score 중심 평가
-    - [github link](https://github.com/hhjhhjh/NIS-co-create/acne-CV)
+    - [GitHub Link](https://github.com/hhjhhjh/NIS-co-create/acne-CV)
 
 - 🏠 **자취방 안전지수 시각화 웹 **
     - 서울시 치안데이터 기반 지도 시각화
     - Streamlit, Pandas, GeoJSON 활용
-    - [github link](https://github.com/hhjhhjh/Tave-14-Aespo/safe-house)
+    - [gGitHub Link](https://github.com/hhjhhjh/Tave-14-Aespo/safe-house)
 
 - 추후 추가 작성 및 수정 예정
 <br><br>
