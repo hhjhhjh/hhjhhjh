@@ -32,7 +32,7 @@ Also used:
 - 🏠 **자취방 안전지수 시각화 웹**
     - 서울시 공공데이터 기반 지도 시각화 및 안전도 점수 도출
     - Kakao API, K-means, Pickle, Flask 활용
-    - [gGitHub Link](https://github.com/hhjhhjh/Tave-14-Aespo/safe-house)
+    - [GitHub Link](https://github.com/hhjhhjh/Tave-14-Aespo/safe-house)
 
 - 추후 추가 작성 및 수정 예정
 <br><br>
