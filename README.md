@@ -1,7 +1,8 @@
 
 	
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Jeonghyun's%20github&textBg=false&animation=fadeIn&fontColor=ffffff&height=200&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Jeonghyun's%20github&textBg=false&animation=fadeIn&fontColor=ffffff&height=200&fontAlignY=40&fontSize=40)
+
 
 ## 👩‍💻 About Me
 🎓 Major in **Bio Medical Artificial Intelligence** <br>
