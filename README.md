@@ -28,6 +28,7 @@ Also used:
     - CNN 기반 딥러닝 모델 설계 및 데이터 전처리
     - 클래스 불균형을 고려한 F1-score 중심 평가
     - [GitHub Link](https://github.com/hhjhhjh/NIS-co-create/acne-CV)
+    - [Watch the demo on YouTube](https://youtube.com/shorts/jJNZp1LQrow?si=Zh8ks_hD9YjqH3VL) 
 
 - 🏠 **자취방 안전지수 시각화 웹**
     - 서울시 공공데이터 기반 지도 시각화 및 안전도 점수 도출
