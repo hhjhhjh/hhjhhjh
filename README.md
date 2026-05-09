@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 🎓 Major in **Medical Artificial Intelligence** <br>
-💡 Interested in: Deep Learning, Multimodal AI, Bioinformatics
+💡 Interested in: Deep Learning, Multimodal AI, Bioinformatics, Fintech AI
 <br><br>
 ## 💻 Tech Stack
 Main:
@@ -15,21 +15,7 @@ Main:
 Also used:
 <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=CSS&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-3BABC3?style=flat&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=Mediapipe&logoColor=white"/> 
 <br><br>
-## 🚀 Projects
 
-- 🫀 **Fundus-CIMT Multimodal Model**
-    - 대한임베디드공학회 우수 논문상
-    - [GitHub Link](https://github.com/hhjhhjh/multimodal-cvd-classification)
-  
-- 🧴 **Acne Classification with Deep Learning (Pignal)**
-    - [GitHub Link](https://github.com/NIS-co-create/acne-CV)
-    - [Watch the demo on YouTube](https://youtube.com/shorts/jJNZp1LQrow?si=Zh8ks_hD9YjqH3VL) 
-
-- 🏠 **자취방 안전지수 시각화 웹**
-    - [GitHub Link](https://github.com/Tave-14-Aespo/safe-house)
-
-- 추후 추가 작성 및 수정 예정
-<br><br>
 
   
 
